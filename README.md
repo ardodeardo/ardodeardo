@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ardodeardo
-- 🔭 I’m currently working on ... cms portal
+- 🔭 I’m currently working on ... next js project
 - 🌱 I’m currently learning ... on next.js
 - 👯 I’m looking to collaborate on ... a band
 - 💬 Ask me about ... food
